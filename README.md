@@ -1,4 +1,4 @@
-# 🎓 Secure College Campus Network
+# Secure College Campus Network
 
 A medium-level enterprise campus network designed and simulated using **Cisco Packet Tracer**.
 
@@ -6,7 +6,7 @@ The project demonstrates how VLAN segmentation, inter-VLAN routing, DHCP, OSPF a
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 A college has multiple departments sharing the same network.
 
@@ -22,7 +22,7 @@ To solve these problems, a segmented and secure campus network was designed usin
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Separate departments using VLANs
 - Provide communication between VLANs
@@ -37,7 +37,7 @@ To solve these problems, a segmented and secure campus network was designed usin
 
 ---
 
-## 🏢 Network Departments
+## Network Departments
 
 | VLAN | Department | Network | Gateway |
 |------|------------|---------|---------|
@@ -48,7 +48,7 @@ To solve these problems, a segmented and secure campus network was designed usin
 
 ---
 
-## 🖥️ Network Devices
+## Network Devices
 
 ### Routers
 - Cisco 2911 × 2
@@ -66,7 +66,7 @@ To solve these problems, a segmented and secure campus network was designed usin
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Cisco Packet Tracer
 - VLAN
@@ -84,9 +84,8 @@ To solve these problems, a segmented and secure campus network was designed usin
 
 ---
 
-## 🌐 Network Architecture
+## Network Architecture
 
-```text
                          CAMPUS-R1
                          /       \
                         /         \
